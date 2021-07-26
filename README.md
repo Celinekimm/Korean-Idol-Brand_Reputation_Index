@@ -1,1 +1,1 @@
-# Ecommerce_data_ananlysis
+# Korean-Idol Brand Reputation Index Awards
